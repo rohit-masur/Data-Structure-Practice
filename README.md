@@ -1,1 +1,2 @@
-# Udemy-Data-Structure-Practise
+# Data-Structure-Practise
+Implemented Data Structures in Java
